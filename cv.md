@@ -2,12 +2,12 @@
 # Dzmitry Helakh
 ## Contacs:
         -phone      +375333373333
-        -email      geliknlr@gmail.com
-        -telegramm  
+        -email      geliksgs@gmail.com
+        -telegramm  +37061249976
 
 
 ## Hello.
- My name is Dmitry, as you have already noticed above. I'm from Belarus. I live in Minsk. I am 31 years old. The main goal at the moment is to learn programming. And to be more precise \(Front-end / JS)
+ My name is Dmitry. I'm from Belarus. I live in Minsk. I am 31 years old. The main goal at the moment is to learn programming. And to be more precise \(Front-end / JS)
 He graduated from BrGTU with a degree in engineer-economist in construction.
 ##  Worked in different areas:
 + restaurants and bars bartender
