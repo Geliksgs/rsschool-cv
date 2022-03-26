@@ -1,9 +1,9 @@
 ![alt foto](/Img/fotopresent.jpg)
 # Dzmitry Helakh
 ## Contacs:
-        -phone      +375333373333
-        -email      geliksgs@gmail.com
-        -telegramm  +37061249976
+- phone      +375333373333
+- email      <geliksgs@gmail.com>
+- telegramm  +37061249976
 
 
 ## Hello.
