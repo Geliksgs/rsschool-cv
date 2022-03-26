@@ -24,12 +24,13 @@ He graduated from BrGTU with a degree in engineer-economist in construction.
  + I don't stop there
 
 
-## My hobbies: 
+## My hobbies:
+
+
 *I love sports,reading, fishing and nature.* For me, this is the best way to be alone with yourself and learn to love the world in which we live. I think this is a very important moment for everyone.
 
 
-Today I am a beginner programmer.
-**My skills** so far, which consist of the stages of training and these are:
+Today I am a beginner programmer.**My skills** so far, which consist of the stages of training and these are:
 1. HTML
 2. CSS
 3. GIT
