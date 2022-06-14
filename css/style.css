@@ -1,0 +1,33 @@
+.card {
+    width: 300px;
+    margin: 30px auto;
+    background-color: #fff;
+    box-shadow: 0 24px 16px #100821;
+    border-radius: 20px;
+    padding: 10px;
+}
+.card-photo {
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+    }
+.card-title {
+    font-size: 23px;
+    text-align: center;
+    text-shadow: 3px 5px #ccc;
+    margin: 8px;
+}
+.card-text {
+    font-size: 14px;
+}
+.card-subtitle {
+    font-size: 18px;
+    color: #b58607;
+}
+.card-list {
+    padding-left: 0;
+    list-style-position: inside;
+    font-size: 14px;
+}
